@@ -5,7 +5,7 @@ This directory contains the code and resources of the following paper:
 
 GRep: Gene Set Representation via Gaussian Embedding (under review)
 
-## Usage
+## Usage (under construction)
 cd src
 
 python GRep.py
